@@ -1,0 +1,22 @@
+{
+  "name": "bbng",
+  "version": "0.0.1",
+  "authors": [
+    "Marcos A. López Cruz <marquibiris@gmail.com>"
+  ],
+  "description": "BBNG stance for Bower - Bourbon - Neat - Grunt",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.0",
+    "bourbon": "~3.1.8",
+    "neat": "~1.5.0"
+  }
+}
